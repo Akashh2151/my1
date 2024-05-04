@@ -1,0 +1,803 @@
+Java
+Python
+C#
+C++
+Jmeter
+JavaScript
+TypeScript
+Ruby
+Swift
+Bitbucket
+GoLang 
+Kotlin
+Hapi
+GoLang, 
+Dart
+PHP
+Scala
+Objective-C
+Perl
+Rust
+R
+Dart
+cloud computing
+Julia
+Groovy
+PowerShell
+Bash
+Elixir
+Erlang
+Lua
+Ada
+Fortran
+Assembly Language
+MATLAB
+Clojure
+Apex
+Solidity
+ABAP
+Visual Basic
+Scratch
+Delphi
+LabVIEW
+SAS
+PL/SQL
+COBOL
+F#
+
+
+HTML
+CSS
+Node.js
+Nodejs
+Angular
+React.js
+Vue.js
+Spring Framework
+Django
+Flask
+Bootstrap
+ASP.NET
+.Net
+Ember.js
+Backbone.js
+jQuery
+Ajax
+JSON
+XML
+WebSockets
+RESTful APIs
+GraphQL
+SOAP
+Middleware
+Progressive Web Apps (PWA)
+Serverless Frameworks
+Content Management Systems (WordPress, Joomla, Drupal)
+Magento
+Shopify
+Adobe Experience Manager
+
+SQL
+MySQL
+PostgreSQL
+MongoDB
+Oracle Database
+Microsoft SQL Server
+Cassandra
+Redis
+Elasticsearch
+Firebase
+SQLite
+IBM Db2
+Neo4j
+MariaDB
+Amazon DynamoDB
+Google BigQuery
+BigQuery
+CouchDB
+Data Warehousing
+Data Migration
+
+Android Development
+iOS Development
+Xamarin
+React Native
+Flutter
+Mobile UI/UX Design
+Cordova
+PhoneGap
+Mobile Testing
+Progressive Enhancement
+
+User Interface Design
+User Experience Design
+Adobe Photoshop
+Adobe Illustrator
+Adobe XD
+Figma
+Sketch
+InVision
+Wireframing
+Prototyping
+Usability Testing
+Accessibility Design
+Responsive Design
+Material Design
+Interaction Design
+Motion Graphics
+User Research
+
+Amazon Web Services (AWS)
+Microsoft Azure
+Google Cloud Platform
+IBM Cloud
+Oracle Cloud
+Cloud Security
+Cloud Storage Solutions
+Virtual Machines
+Kubernetes
+Docker
+DevOps
+CI/CD Pipelines
+Infrastructure as Code (IaC)
+Serverless Architecture
+Cloud Migration
+Cloud Administration
+
+S3
+EC2
+lambda
+JWT
+Linux Administration
+Linux
+Windows Server Administration
+Network Security
+VPNs
+Firewalls
+Cisco Technologies
+Juniper Networks
+VMware
+Hyper-V
+DNS Management
+DHCP
+IP Addressing
+Network Configuration
+Patch Management
+System Monitoring Tools (Nagios, Zabbix)
+Backup Solutions
+Load Balancing
+Data Center Management
+Storage Area Networks (SAN)
+Network Attached Storage (NAS)
+DevOps 
+Ethical Hacking
+Penetration Testing
+Cybersecurity Frameworks (NIST, ISO 27001)
+Intrusion Detection Systems (IDS)
+Intrusion Prevention Systems (IPS)
+Security Information and Event Management (SIEM)
+Encryption Technologies
+Vulnerability Assessment
+Information Security Policies
+Compliance Auditing
+Risk Management
+Antivirus and Antimalware
+Data Encryption
+Secure Coding Practices
+OWASP Top 10
+Digital Forensics
+Incident Response
+Security Operations Center (SOC)
+Access Control
+Identity and Access Management (IAM)
+Two-Factor Authentication
+
+Data Analysis
+Data Visualization
+Machine Learning
+Deep Learning
+Artificial Intelligence (AI)
+Statistical Analysis
+Big Data Technologies
+Apache Hadoop
+Apache Spark
+Jupyter Notebooks
+TensorFlow
+PyTorch
+Scikit-Learn
+Keras
+Pandas
+Numpy
+Business Intelligence (BI)
+Tableau
+Power BI
+Google Analytics
+Data Mining
+Predictive Analytics
+Natural Language Processing (NLP)
+Computer Vision
+Time Series Analysis
+
+Project Management
+Agile Methodologies
+Scrum
+Kanban
+Lean
+Six Sigma
+ITIL
+Change Management
+Technical Writing
+API Development
+Software Testing
+Manual Testing
+Automated Testing
+Performance Testing
+Security Testing
+Integration Testing
+Debugging
+Version Control (Git, SVN)
+Software Documentation
+Configuration Management
+Quality Assurance
+Continuous Integration
+Release Management
+IT Support and Troubleshooting
+Customer Support
+Help Desk Operations
+Training and Development
+IT Compliance
+IT Auditing
+Software Deployment
+Scripting (Python, Perl, Ruby)
+Batch Processing
+Electronic Design Automation (EDA)
+Hardware Testing
+IoT (Internet of Things)
+Blockchain
+Cryptocurrency
+Smart Contracts
+Augmented Reality (AR)
+Virtual Reality (VR)
+Mixed Reality (MR)
+Robotics
+Drone Technology
+Quantum Computing
+Biometrics
+Geographic Information Systems (GIS)
+Telematics
+Automation Tools (Ansible, Puppet, Chef)
+Firmware Development
+Embedded Systems
+Microcontrollers
+Circuit Design
+PCB Layout
+Signal Processing
+Radio Frequency (RF) Engineering
+Optical Engineering
+Nanotechnology
+Artificial Neural Networks
+Genetic Algorithms
+Swarm Intelligence
+Game Development
+3D Modeling
+Sound Engineering
+Video Production
+Podcasting
+Streaming Technology
+E-commerce Systems
+Payment Gateway Integration
+Digital Marketing
+SEO (Search Engine Optimization)
+Content Management
+Social Media Management
+Affiliate Marketing
+Email Marketing
+Conversion Optimization
+User Engagement
+Customer Relationship Management (CRM)
+Sales Force Automation
+Enterprise Resource Planning (ERP)
+Supply Chain Management
+Human Resources Information Systems (HRIS)
+Product Management
+User Onboarding
+Conversion Rate Optimization
+A/B Testing
+Heatmap Analysis
+Scroll Tracking
+User Session Recording
+Funnel Analysis
+Churn Prevention
+Lifetime Value Optimization
+Cohort Analysis
+Segmentation Strategies
+Customer Acquisition Techniques
+Customer Retention Strategies
+Cross-platform Development
+Multi-tenant Architectures
+Public Speaking
+Leadership
+Team Building
+Negotiation
+Conflict Resolution
+Critical Thinking
+
+Haskell
+OCaml
+Common Lisp
+Svelte
+Next.js
+Nuxt.js
+Gatsby
+Redux
+MobX
+Meteor
+GraphQL Apollo
+Electron
+QT
+WPF
+Servlets
+JSP
+JSF
+Struts
+Play Framework
+CakePHP
+Laravel
+Yii
+Symfony
+Phoenix
+TurboGears
+CherryPy
+Falcon
+Express.js
+Server-side rendering
+Microservices Architecture
+microservices 
+
+Terraform
+Ansible
+Microsoft Azure
+Puppet
+Microsoft Power Automate
+Chef
+C/C+
+SaltStack
+OpenStack
+CloudFoundry
+PaaS Solutions
+IaaS Solutions
+FaaS (Function as a Service)
+Azure DevOps
+AWS CloudFormation
+Google Kubernetes Engine
+AWS ECS
+DigitalOcean
+Linode
+CI/CD with Jenkins
+Travis CI
+GitLab CI
+CircleCI
+Prometheus
+Grafana
+Nagios
+Splunk
+Logstash
+Kibana
+Elastic Stack
+AWS Lambda
+Azure Functions
+Google Cloud Functions
+
+SDN (Software Defined Networking)
+MPLS (Multi-Protocol Label Switching)
+BGP (Border Gateway Protocol)
+OSPF
+IPSec
+SSL/TLS
+SAML
+OAuth
+OpenID Connect
+Web Application Firewall (WAF)
+Network Penetration Testing
+Wireless Security
+Cloud Security Certifications
+Cryptography
+Quantum Cryptography
+Malware Analysis
+Security Assertion Markup Language
+PKI (Public Key Infrastructure)
+Threat Intelligence
+Security Automation
+
+HBase
+Apache Kafka
+Apache Storm
+Apache Flink
+Apache Beam
+Snowflake
+Databricks
+Airflow
+Hive
+Pig
+Sqoop
+Flume
+Data Lakes
+Data Fabric
+NoSQL databases
+NoSQL 
+Graph databases
+Time-series databases
+Data replication
+Data normalization
+Data denormalization
+
+Reinforcement Learning
+Supervised Learning
+Unsupervised Learning
+Decision Trees
+Random Forests
+SVM (Support Vector Machines)
+Bayesian Networks
+Genetic Programming
+Algorithm Design
+Feature Engineering
+Model Deployment
+Model Monitoring
+AI Ethics
+Bias in AI
+AI Fairness
+AI for Good
+GANs (Generative Adversarial Networks)
+Computer-Aided Diagnosis
+Automated Machine Learning (AutoML)
+AI in Edge Devices
+AI in Robotics
+
+Selenium
+Appium
+LoadRunner
+JMeter
+TestRail
+Cucumber
+Postman
+Newman
+API Testing
+Integration Testing
+System Testing
+User Acceptance Testing (UAT)
+Regression Testing
+Black Box Testing
+White Box Testing
+Non-functional Testing
+Security Testing Tools
+Performance Testing Tools
+Mobile App Testing
+Usability Testing
+
+Blockchain Development
+Hyperledger
+Smart Contracts with Truffle
+dApps Development
+IoT Protocols
+MQTT
+CoAP
+IoT Platforms
+Edge Computing
+Fog Computing
+Digital Twins
+Augmented Reality Development
+Virtual Reality Development
+Mixed Reality Development
+3D Printing Technology
+Autonomous Vehicles Technology
+Quantum Computing Algorithms
+Sustainable Computing
+Green IT Practices
+Drone Programming
+Wearable Technology
+Biotechnology Informatics
+
+PRINCE2
+CAPM
+PMP
+Agile Coaching
+Product Owner Skills
+Scrum Master Skills
+Scrum 
+Risk Management
+Stakeholder Management
+Business Case Development
+Earned Value Management
+Kanban for IT
+Lean IT
+Safe Agile
+XP (Extreme Programming)
+Crystal Methods
+
+
+3D Animation
+CAD Software
+VRay
+Unity3D
+Unreal Engine
+Motion Capture
+Sound Design
+Video Editing Software (Adobe Premiere, Final Cut Pro)
+Graphic Design Software (CorelDRAW, Affinity Designer)
+Typography
+Color Theory
+UX Writing
+Digital Illustration
+Storyboarding
+Branding and Identity
+
+Advanced Presentation Skills
+Technical Leadership
+Cross-functional Team Leadership
+Conflict Management
+Strategic Planning
+Business Communication
+Technical Documentation
+Knowledge Management
+Remote Team Management
+Cultural Awareness in IT
+
+ 
+Hardware
+Networking
+Security
+Database
+Cloud
+DevOps
+IoT (Internet of Things)
+AI (Artificial Intelligence)
+ML (Machine Learning)
+Blockchain
+Robotics
+Virtualization
+Biotech
+Fintech
+Cryptography
+AR (Augmented Reality)
+VR (Virtual Reality)
+UX (User Experience)
+UI (User Interface)
+Testing
+Analytics
+SEO (Search Engine Optimization)
+SaaS (Software as a Service)
+PaaS (Platform as a Service)
+IaaS (Infrastructure as a Service)
+E-commerce
+Telecom
+Cybersecurity
+Multimedia
+ERP (Enterprise Resource Planning)
+CRM (Customer Relationship Management)
+SCM (Supply Chain Management)
+EdTech
+HealthTech
+AdTech
+BigData
+Wearables
+Infrastructure
+ManagedServices
+SocialMedia
+Governance
+Compliance
+Sustainability
+Forensics
+
+
+Git
+SVN
+Mercurial
+Jenkins
+Travis CI
+CircleCI
+Azure DevOps
+JIRA
+Asana
+Trello
+Visual Studio
+IntelliJ IDEA
+IntelliJ
+Eclipse
+NetBeans
+Sublime Text
+Atom
+VSCode
+
+Xcode
+Android Studio
+GitHub
+GitLab
+
+Core Java
+Core python
+React
+Angular
+Vue.js
+Spring Boot
+Spring boot
+Django
+Flask
+.NET Framework
+ASP.NET
+Laravel
+Ruby on Rails
+Express
+Bootstrap
+TensorFlow
+PyTorch
+jQuery
+
+MySQL
+PostgreSQL
+MongoDB
+Oracle
+Microsoft SQL Server
+Redis
+Cassandra
+Firebase
+CouchDB
+
+AWS (Amazon Web Services)
+Google Cloud Platform
+Microsoft Azure
+IBM Cloud
+Oracle Cloud
+
+Selenium
+JUnit
+TestNG
+Mocha
+Jest
+Cypress
+Postman
+SoapUI
+
+Docker
+Kubernetes
+Vagrant
+VMware
+
+Ansible
+Chef
+Puppet
+Terraform
+Nagios
+Prometheus
+
+HTML5
+CSS3
+SASS
+LESS
+Webpack
+Babel
+Figma
+Adobe XD
+
+OWASP ZAP
+Fortify
+Metasploit
+Nessus
+Burp Suite
+
+Apache Kafka
+RabbitMQ
+ActiveMQ
+MuleSoft
+
+Requirement Analysis
+Specification
+Prototyping
+Wireframing
+System Design
+Architectural Design
+Interface Design
+Usability Testing
+Integration Testing
+Regression Testing
+Functional Testing
+System Testing
+Stress Testing
+Performance Testing
+Security Testing
+Deployment
+Configuration Management
+Risk Management
+Quality Assurance
+Debugging
+Code Review
+Version Control
+Build Automation
+Continuous Integration
+Continuous Delivery
+Release Management
+Maintenance
+Patch Management
+Disaster Recovery
+Scalability Analysis
+Load Balancing
+Code Optimization
+Refactoring
+Documentation
+Technical Writing
+API Design
+Data Migration
+Legacy Integration
+User Training
+Stakeholder Management
+Client Relations
+Team Collaboration
+Agile Methodologies
+Figma 
+JIRA 
+Scrum Practices
+Kanban Techniques
+Kanban 
+Lean Software Development
+Feature Driven Development
+Test Driven Development
+Behavior Driven Development
+Domain Driven Design
+
+Sikuli
+Nginx
+Vim 
+Android SDK
+Jmeter
+Ubuntu
+Helm
+Authelia
+Tomcat
+Glassfish
+Jaeger
+Apisix-gateway
+Linkerd
+Argoworkflows
+Winscp
+Dgraph
+Shell script
+C-Lang
+Yaml
+K3S
+AWS
+MVVM
+MVP
+MVC
+CosmosDB
+Jetpack
+Apache Kafka,
+Bash Scripting
+Coding & Troubleshooting
+REST API
+Webrtc
+GCP
+Gin-Gonic
+Gremlin
+gRPC
+Gorm
+Robot framework
+Go-Query 
+Go-Colly
+Swagger
+ELK
+type script
+Kafka
+ScyllaDB
+TailwindCss
+Recruitment metrics analysis 
+Server Side Programming
+Candidate On boarding
+IT Recruiting
+Scrap Reduction & Output Increase
+Microsoft power point
+Market Mapping
+Advance Excel
+Microsoft word
+Flash CS4
+J2EE
+JUnits
+Web service
